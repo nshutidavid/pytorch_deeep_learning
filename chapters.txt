@@ -1,0 +1,5 @@
+00. pytorch fundamentals
+01. pytorch workflow
+02. pytorch classification
+03. pytorch computer vision
+04. pytorch custom datasets
